@@ -1,1 +1,4 @@
-# web
+<html>
+<head><title>Mi sitio de prueba</title></head>
+<body><h1>Hola, este es mi sitio vulnerable a DoS</h1></body>
+</html>
